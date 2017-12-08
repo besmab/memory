@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/besma/Desktop/cloneP8SOKO/P8_Sokoban/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b08dabe050491615a0833a9f44019fcbe9af2ce">
+        <dex dex="/Users/besma/Desktop/cloneP8SOKO/P8_Sokoban/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c77421014d2387670c43452a00c1291a50b45a7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/besma/Desktop/cloneP8SOKO/P8_Sokoban/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="39ce3c7e5a3a38d3281fef139185e4c8f2b709c5">
+        <dex dex="/Users/besma/Desktop/cloneP8SOKO/P8_Sokoban/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_73074229b17602f725cf09a510a112c5c421214e/classes.dex" />
+    </item>
+
+</items>

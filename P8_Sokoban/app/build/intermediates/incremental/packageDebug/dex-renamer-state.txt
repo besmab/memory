@@ -1,0 +1,7 @@
+#Fri Dec 08 19:50:36 CET 2017
+base.0=/Users/besma/Desktop/cloneP8SOKO/P8_Sokoban/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_73074229b17602f725cf09a510a112c5c421214e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/besma/Desktop/cloneP8SOKO/P8_Sokoban/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c77421014d2387670c43452a00c1291a50b45a7c/classes.dex
+base.1=/Users/besma/Desktop/cloneP8SOKO/P8_Sokoban/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c77421014d2387670c43452a00c1291a50b45a7c
+file.0=/Users/besma/Desktop/cloneP8SOKO/P8_Sokoban/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_73074229b17602f725cf09a510a112c5c421214e/classes.dex

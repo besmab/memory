@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/besma/Desktop/cloneP8SOKO/P8_Sokoban/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/sound.png",
+        "source": "/Users/besma/Desktop/cloneP8SOKO/P8_Sokoban/app/src/main/res/mipmap-xxhdpi/sound.png"
+    },
+    {
+        "merged": "/Users/besma/Desktop/cloneP8SOKO/P8_Sokoban/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/besma/Desktop/cloneP8SOKO/P8_Sokoban/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/besma/Desktop/cloneP8SOKO/P8_Sokoban/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/retour.png",
+        "source": "/Users/besma/Desktop/cloneP8SOKO/P8_Sokoban/app/src/main/res/mipmap-xxhdpi/retour.png"
+    },
+    {
+        "merged": "/Users/besma/Desktop/cloneP8SOKO/P8_Sokoban/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/notsound.png",
+        "source": "/Users/besma/Desktop/cloneP8SOKO/P8_Sokoban/app/src/main/res/mipmap-xxhdpi/notsound.png"
+    }
+]

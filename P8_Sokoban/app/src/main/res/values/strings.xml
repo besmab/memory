@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, p8_Sokoban!</string>
+    <string name="app_name">Sokoban</string>
+
+    <string name="play">play</string>
+    <string name="about">about</string>
+    <string name="quit">quit</string>
+    <string name="sound">sound</string>
+    <string name="score">score</string>
+    <string name="Rahman">Rahman Anica</string>
+    <string name="Bedine">Bedine Besma</string>
+
+    <string name="home">home</string>
+
+</resources>
